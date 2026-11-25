@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# À COMPLÉTER à la mise en ligne : Sitemap: https://[domaine]/sitemap.xml
